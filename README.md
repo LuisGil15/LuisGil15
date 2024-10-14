@@ -6,8 +6,8 @@ Software Developer
 
 Graduated from the engineering career in software development at the CETI. My main goal is to pursue my career and work on different projects and not stay in just one specialty. I currently work developing mobile applications, but I am open to considering different positions, especially being a fullstack developer
 
-* 🌍  I'm based in Guadalajara
-* ✉️  You can contact me at [gilperezluisfrancisco@gmail.com](mailto:gilperezluisfrancisco@gmail.com)
+* 🌍  I'm based in México
+* ✉️  You can contact me at [luis.gil.dev15@gmail.com](mailto:luis.gil.dev15@gmail.com)
 * 🧠  I'm learning A lot of new technologies
 
 <a href="https://www.github.com/LuisGil15" target="_blank" rel="noreferrer"><img
