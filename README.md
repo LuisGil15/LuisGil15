@@ -1,57 +1,97 @@
 Hi 👋 My name is Luis Gil
 =========================
 
-Software Developer
-------------------
+Software Developer · Native, Mobile & Web
+-----------------------------------------
 
-Graduated from the engineering career in software development at the CETI. My main goal is to pursue my career and work on different projects and not stay in just one specialty. I currently work developing mobile applications, but I am open to considering different positions, especially being a fullstack developer
+I'm a software developer based in México, building native Apple apps, mobile experiences, and web products.
 
-* 🌍  I'm based in México
-* ✉️  You can contact me at [luis.gil.dev15@gmail.com](mailto:luis.gil.dev15@gmail.com)
-* 🧠  I'm learning A lot of new technologies
+I enjoy turning ideas into useful applications and working across the stack — from interfaces and interactions to backend services and integrations. I hold a degree in Software Development Engineering from CETI.
 
-<a href="https://www.github.com/LuisGil15" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/LuisGil15?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+* 🌍 Based in México
+* 🛠 Currently building **Tavi** and **MiniTools**
+* 🍎 Building native experiences with **Swift & SwiftUI**
+* 📱 Developing mobile and web applications with **React Native, React & TypeScript**
+* 🌐 Explore my work at [luisgil.dev](https://luisgil.dev)
+* ✉️ Contact me at [luis.gil.dev15@gmail.com](mailto:luis.gil.dev15@gmail.com)
+
+<a href="https://github.com/LuisGil15"><img src="https://img.shields.io/github/followers/LuisGil15?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers" /></a>
+<a href="https://luisgil.dev"><img src="https://img.shields.io/badge/Portfolio-luisgil.dev-0891b2?style=for-the-badge&labelColor=1c1917" alt="Visit my portfolio" /></a>
+
+### Featured projects
+
+#### 🍎 Tavi
+
+A native, local-first REST client for **Mac and iPad**. Organize APIs into workspaces, send requests, manage environments, and keep your request history close at hand.
+
+Built with **Swift & SwiftUI**, with optional private iCloud sync and secrets stored in Apple Keychain.
+
+[Explore Tavi](https://github.com/LuisGil15/tavi) · [App Store](https://apps.apple.com/mx/app/tavi/id6819794965)
+
+#### 🛠 MiniTools
+
+A compact workspace around your Mac's notch. Music controls, timers, calendar events, reminders, and everyday tools, right at the top of your screen.
+
+Built with **Swift & SwiftUI** for macOS, with optional plugins to extend the experience.
+
+[Explore MiniTools](https://github.com/LuisGil15/MiniTools) · [Browse plugins](https://github.com/LuisGil15/MiniTools-Plugins)
 
 ### Skills
 
+**Native & mobile**
+
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://www.swift.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="36" height="36" alt="Swift" title="Swift & SwiftUI" /></a>
+<a href="https://reactnative.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React Native" title="React Native" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript" /></a>
 </p>
 
+**Web**
+
+<p align="left">
+<a href="https://react.dev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React" /></a>
+<a href="https://astro.build/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/astro/astro-original.svg" width="36" height="36" alt="Astro" title="Astro" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3" /></a>
+</p>
+
+**Backend & data**
+
+<p align="left">
+<a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" title="Node.js" /></a>
+<a href="https://nestjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="36" height="36" alt="NestJS" title="NestJS" /></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="36" height="36" alt="Spring Boot" title="Spring Boot" /></a>
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python" /></a>
+<a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="36" height="36" alt="SQLite" title="SQLite" /></a>
+<a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="36" height="36" alt="Firebase" title="Firebase" /></a>
+<a href="https://supabase.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="36" height="36" alt="Supabase" title="Supabase" /></a>
+</p>
+
+**Tools & workflow**
+
+<p align="left">
+<a href="https://www.docker.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" title="Docker" /></a>
+<a href="https://www.cloudflare.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="36" height="36" alt="Cloudflare" title="Cloudflare" /></a>
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="36" height="36" alt="Git" title="Git" /></a>
+<a href="https://www.figma.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma" /></a>
+</p>
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/LuisGil15" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<!--<a href="http://www.instagram.com/luisgil.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-##generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>-->
-<a href="https://www.linkedin.com/in/luis-francisco-gil-perez-721348182/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-<!--<a href="https://www.twitter.com/LuisGilP98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-##generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>-->
+<p align="left">
+<a href="https://github.com/LuisGil15"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></a>
+<a href="https://www.linkedin.com/in/luis-francisco-gil-perez-721348182/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></a>
 </p>
 
-### Badges
+[Portfolio](https://luisgil.dev) · [Email](mailto:luis.gil.dev15@gmail.com)
 
-<b>My GitHub Stats</b>
+### GitHub activity
 
-<a href="http://www.github.com/LuisGil15"><img src="https://github-readme-stats.vercel.app/api?username=LuisGil15&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LuisGil15's GitHub stats" /></a>
+<a href="https://github.com/LuisGil15">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisGil15&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Luis Gil's GitHub stats" />
+</a>
 
-<a href="http://www.github.com/LuisGil15"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisGil15&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/LuisGil15"><img src="https://activity-graph.herokuapp.com/graph?username=LuisGil15&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/LuisGil15" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGil15&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/LuisGil15">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisGil15&langs_count=8&layout=compact&title_color=0891b2&text_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Most%20Used%20Languages" alt="Most used languages in my public repositories" />
+</a>
