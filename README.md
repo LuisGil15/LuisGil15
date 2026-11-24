@@ -82,6 +82,9 @@ Built with **Swift & SwiftUI** for macOS, with optional plugins to extend the ex
 <p align="left">
 <a href="https://github.com/LuisGil15"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /></a>
 <a href="https://www.linkedin.com/in/luis-francisco-gil-perez-721348182/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /></a>
+<a href="https://www.instagram.com/luisgildev/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" /></a>
+<a href="https://www.threads.com/@luisgildev"><img src="https://cdn.simpleicons.org/threads/0891b2" width="32" height="32" alt="Threads" title="Threads" /></a>
+<a href="https://x.com/luisgildev"><img src="https://cdn.simpleicons.org/x/0891b2" width="32" height="32" alt="X" title="X" /></a>
 </p>
 
 [Portfolio](https://luisgil.dev) · [Email](mailto:luis.gil.dev15@gmail.com)
